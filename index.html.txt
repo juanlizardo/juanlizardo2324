@@ -1,0 +1,34 @@
+<html>
+<title>ESPAÑOL</title>
+<link rel="shortcut icon" type="image/x-icon" href="conva_bq_especi.png"/>
+<BODY background="fondo.jpg">
+<b>
+<MARQUEE WIDTH=100% HEIGHT=40> <font size="+6"> <font face="Times New Roman, Times, serif"> <font color="#FFFFFF"> ASIGNATURA: ESPAÑOL </font> 
+</MARQUEE> </b>
+<h3>     </h3>
+  
+<DIV STYLE="position:absolute; top:125px; left:540px; visibility:visible z-index:1"> <IMG height="90" src="ICON 1.png" title="Manual de Usuario"
+width="100"></div> 
+
+<DIV STYLE="position:absolute; top:120px; left:710px; visibility:visible z-index:1"> <IMG height="90" src="icon 3.png" title="Comunicación Oral"
+width="100"></div>
+
+<DIV STYLE="position:absolute; top:255px; left:790px; visibility:visible z-index:1"> <IMG height="90" src="icon 2 (2).png"title="Proceso de lectura y escritura I" width="100"></div> 
+
+<DIV STYLE="position:absolute; top:400px; left:710px; visibility:visible z-index:1"> <IMG height="90" src="ICON 4.png" title="Proceso de lectura y escritura II" width="100"></div> 
+
+<DIV STYLE="position:absolute; top:395px; left:540px; visibility:visible z-index:1"> <IMG height="100" src="ICON 5.png" title="Creadores"width="115"> </div> 
+
+<DIV STYLE="position:absolute; top:255px; left:460px; visibility:visible z-index:1"> <IMG height="90" src="ICON 6.png"title="Reporte de Problema" width="100"></div>
+
+<DIV STYLE="position:absolute; top:260px; left:635px; visibility:visible z-index:1"> <IMG height="90" src="DISEÑO_451435135.gif"  width="100"></div>
+
+<div align="center"><img src="menu.png"  border="0" width="530" height="480"> </div>
+<WIDTH=100% HEIGHT=40><font size="+3"> <font face="Times New Roman, Times, serif"> <font color="#FFFFFF">
+<center><b>
+<p>Universidad Pedagógica Francisco Morazán <br/>
+Licenciatura en Educación Básica <br/> </p></b>
+ </font> </font> </font>  </center>
+ 
+</body>
+</html>

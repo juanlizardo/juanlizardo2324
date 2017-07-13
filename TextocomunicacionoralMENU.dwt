@@ -1,0 +1,22 @@
+<html>
+<title>Comunicación Oral</title>
+<link rel="shortcut icon" type="image/x-icon" href="conva_bq_especi.png"/>
+ <DIV STYLE="position:static; top:0px; left:0px; visibility:visible z-index:1"> <IMG height="200"  src="UPNFM.png" width="1350"></div>
+ <h1>     </h1>
+ <h2>     </h2>
+<b> 
+<MARQUEE WIDTH=100% HEIGHT=40> <font size="+6"> <font face="Times New Roman, Times, serif"> <font color="#000099" > Comunicacion Oral </font> 
+</MARQUEE></b> 
+
+
+<DIV STYLE="position:absolute; top:300px; left:170px; visibility:visible z-index:1"><a href="Textocomunicacionoral.html"> <IMG height="190" src="contenido.png" width="200"></div> 
+<DIV STYLE="position:absolute; top:300px; left:570px; visibility:visible z-index:1"><a href="JUEOS/pArdora/pArdora.htm"> <IMG height="190" src="actividades.png" width="200"></div> 
+<DIV STYLE="position:absolute; top:300px; left:970px; visibility:visible z-index:1"> <IMG height="190" src="evaluacion.png" width="200"></div> 
+<b> <DIV STYLE="position:absolute; top:470px; left:170px; visibility:visible z-index:1"> <font size="+3"> <font face="Times New Roman, Times, serif"> <font color="#0000CC"> <p>CONTENIDO</p> </div> </b> </font></font></font>
+<b> <DIV STYLE="position:absolute; top:470px; left:570px; visibility:visible z-index:1"> <font size="+3"> <font face="Times New Roman, Times, serif"> <font color="#0000CC"> <p>ACTIVIDADES</p> </div> </b> </font></font></font>
+<b> <DIV STYLE="position:absolute; top:470px; left:970px; visibility:visible z-index:1"> <font size="+3"> <font face="Times New Roman, Times, serif"> <font color="#0000CC"> <p>EVALUACIÓN</p> </div> </b> </font></font></font>
+ 
+ <DIV STYLE="position:absolute; top:560px; left:630px; visibility:visible z-index:1"><a href="Index.html"> <IMG height="80" src="inicio.png" width="80">   </div> 
+ 
+</body>
+</html>
